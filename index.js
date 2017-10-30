@@ -5,4 +5,8 @@ function sayHello() {
 }
 sayHello()
 
+function sayHelloToBrendon () {
+  console.log("Hello Brendon")
+}
 
+sayHelloToBrendon()
