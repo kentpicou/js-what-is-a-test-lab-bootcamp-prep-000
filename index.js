@@ -22,3 +22,9 @@ function doSomething(thing) {
 }
 
 doSomething()
+
+function say(greeting, firstname) {
+  console.log('${greeting}, ${firstname}')
+}
+
+say("Baba", "hello")
