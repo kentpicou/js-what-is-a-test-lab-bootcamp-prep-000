@@ -1,7 +1,6 @@
 function doNothing() {}
 
-function sayHello () {
+function sayHello() {
   console.log("Hello")
 }
 sayHello()
-
