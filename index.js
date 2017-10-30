@@ -10,3 +10,9 @@ function sayHelloToBrendon () {
 }
 
 sayHelloToBrendon()
+
+function sayHelloToFran () {
+  console.log("Hello Fran")
+}
+
+sayHelloToFran()
