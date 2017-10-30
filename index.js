@@ -23,8 +23,8 @@ function doSomething(thing) {
 
 doSomething()
 
-function say(greeting, firstname) {
-  console.log('${greeting}, ${firstname}!')
+function say(greeting, firstName) {
+  console.log(`${greeting}, ${firstName}!`)
 }
 
 say("Baba", "hello")
