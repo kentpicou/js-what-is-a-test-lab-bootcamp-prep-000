@@ -24,7 +24,7 @@ function doSomething(thing) {
 doSomething()
 
 function say(greeting, firstName) {
-  console.log("${greeting}, ${firstName}")
+  console.log('${greeting}, ${firstName}')
 }
 
 say("Baba", "hello")
